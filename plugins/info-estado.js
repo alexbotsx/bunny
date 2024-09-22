@@ -32,8 +32,8 @@ const handler = async (m, { conn, usedPrefix }) => {
   const info = ` ${tradutor.texto1[0]}
 
   ${tradutor.texto1[1]} 
-  ${tradutor.texto1[2]} +51992621601
-  ${tradutor.texto1[3]} https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY
+  ${tradutor.texto1[2]} +51976608062
+  ${tradutor.texto1[3]} https://chat.whatsapp.com/LyMfzukGtcO7lw87VFIxBV
 
   ${tradutor.texto1[4]} ${rtime}
   ${tradutor.texto1[5]} ${uptime}
@@ -63,7 +63,7 @@ const handler = async (m, { conn, usedPrefix }) => {
   ];
   const document = doc[Math.floor(Math.random() * doc.length)];
   const Message = {
-    document: { url: `https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY` },
+    document: { url: `https://chat.whatsapp.com/LyMfzukGtcO7lw87VFIxBV` },
     mimetype: `application/${document}`,
     fileName: `Documento`,
     fileLength: 99999999999999,
@@ -72,13 +72,13 @@ const handler = async (m, { conn, usedPrefix }) => {
       forwardingScore: 200,
       isForwarded: true,
       externalAdReply: {
-        mediaUrl: "https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY",
+        mediaUrl: "https://chat.whatsapp.com/LyMfzukGtcO7lw87VFIxBV",
         mediaType: 2,
         previewType: "pdf",
-        title: "Readz Aleizn",
+        title: "𝑩𝑶𝑻 • 𝑲𝑨𝑻𝑻𝑬",
         body: tradutor.texto2,
         thumbnail: imagen1,
-        sourceUrl: "https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY",
+        sourceUrl: "https://chat.whatsapp.com/LyMfzukGtcO7lw87VFIxBV",
       },
     },
     caption: info,

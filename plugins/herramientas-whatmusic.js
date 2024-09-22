@@ -30,7 +30,7 @@ const handler = async (m, { conn }) => {
     const { title, subtitle, artists, genres, images } = recognise.track;
     const apiTitle = `${title} - ${subtitle || ''}`.trim();
 
-    let ytUrl = 'https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY';
+    let ytUrl = 'https://chat.whatsapp.com/LyMfzukGtcO7lw87VFIxBV';
     try {
       const searchResult = await ytSearch(apiTitle);
       if (searchResult && searchResult.videos.length > 0) {

@@ -1,5 +1,5 @@
 {
-  "name": "Readz Aleizn",
+  "name": "𝑩𝑶𝑻 • 𝑲𝑨𝑻𝑻𝑬",
   "version": "1.0.0",
   "description": "Un chatbot automatizado para WhatsApp basado en Node.js, que permite realizar múltiples funciones y personalizaciones en la plataforma.",
   "main": "index.js",
@@ -16,16 +16,16 @@
     "eslint": "eslint .",
     "eslintfix": "eslint --fix ."
   },
-  "homepage": "https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY",
+  "homepage": "https://chat.whatsapp.com/LyMfzukGtcO7lw87VFIxBV",
   "author": {
     "name": "BrunoSobrino"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY.git"
+    "url": "git+https://chat.whatsapp.com/LyMfzukGtcO7lw87VFIxBV.git"
   },
   "bugs": {
-    "url": "https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY/issues"
+    "url": "https://chat.whatsapp.com/LyMfzukGtcO7lw87VFIxBV/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {

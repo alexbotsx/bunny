@@ -1,4 +1,4 @@
-// Codigo hecho para Readz Aleizn - MD por https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY
+// Codigo hecho para 𝑩𝑶𝑻 • 𝑲𝑨𝑻𝑻𝑬 - MD por https://chat.whatsapp.com/LyMfzukGtcO7lw87VFIxBV
 // By @BrunoSobrino
 import axios from 'axios';
 const { proto, generateWAMessageFromContent, generateWAMessageContent } = (await import("baileys")).default;

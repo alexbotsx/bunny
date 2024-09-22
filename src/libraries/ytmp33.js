@@ -22,7 +22,7 @@ SOFTWARE.
 
 Créditos:
 - Código original: https://github.com/ruhend2001/ruhend-ytmp3
-- Editado por: https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY
+- Editado por: https://chat.whatsapp.com/LyMfzukGtcO7lw87VFIxBV
 */
 
 import axios from 'axios';
